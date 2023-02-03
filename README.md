@@ -1,4 +1,11 @@
-### Hi there 👋
+
+
+
+![github-header-image](https://user-images.githubusercontent.com/116464498/216531868-b787920d-6334-436f-8bde-ce0061ee382d.png)
+
+🌱 I am a newbie(for now) iOS developer trying to develop himself and enjoying it a lot
+
+📫 You can reach me at burakerdn94@gmail.com
 
 <!--
 **burrakerden/burrakerden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
