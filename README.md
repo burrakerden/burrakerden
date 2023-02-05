@@ -3,7 +3,7 @@
 
 ![github-header-image](https://user-images.githubusercontent.com/116464498/216531868-b787920d-6334-436f-8bde-ce0061ee382d.png)
 
-🌱 I am a newbie(for now) iOS developer trying to develop himself and enjoying it a lot
+🌱 I am an iOS developer trying to develop himself and enjoying it a lot
 
 📫 You can reach me at burakerdn94@gmail.com
 
