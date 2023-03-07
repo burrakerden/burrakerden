@@ -33,6 +33,10 @@
 ![giphy](https://user-images.githubusercontent.com/116464498/216533536-28c7dd93-3fd6-4fa7-a873-f5c0676fdb15.gif)
 
 
+
+### All of the apps below are made by me. If you click, you can see the previews and details. Not clone or copy. I made it all myself from scratch. Please take a look. Thanks :)))    ↓↓↓↓↓↓↓↓
+
+
 <!--
 **burrakerden/burrakerden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
